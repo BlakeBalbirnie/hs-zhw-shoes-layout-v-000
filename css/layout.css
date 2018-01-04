@@ -36,24 +36,18 @@
     height: 186px;
 }
 
-.row1 {
-    width: 100%;
-}
 .three {
     width: 30%;
 }
 .four {
     width: 30%;
-    margin-left: 33%;
+    margin-left: 32%;
 }
 .five {
     width: 30%;
-    margin-left: 66%;
+    margin-left: 64%;
 }
 
-.row2 {
-
-}
 .six {
     width: 30%;
 }
